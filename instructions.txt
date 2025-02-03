@@ -1,15 +1,22 @@
-This is a recipe for making Croissants
-Ingredients:
-    For the dough:
-        4 cups all-purpose flour
-        1/4 cup sugar
-        1 1/2 teaspoons salt
-        1 tablespoon instant yeast
-        1 1/4 cups milk (lukewarm)
-        3 tablespoons unsalted butter (melted)
+This is an instruction for making Croissants
 
-    For the butter layer:
-        1 1/2 cups unsalted butter (cold, cut into thin slices)
+In a large bowl, combine the flour, sugar, yeast, and salt. Mix well.
+Add the milk and softened butter to the dry ingredients. Mix until a rough dough forms.
+Turn the dough out onto a lightly floured surface and knead for about 5-7 minutes until smooth and elastic.
+Shape the dough into a ball, place it in a lightly greased bowl, and cover with plastic wrap. Let it rise in a warm place for about 1 hour, or until doubled in size.
+While the dough is rising, prepare the butter layer. On a sheet of parchment paper, arrange the butter slices in a rectangle about 6x8 inches. 
+Cover with another sheet of parchment paper and use a rolling pin to flatten and shape the butter into an even layer. Chill in the refrigerator until firm.
+Once the dough has risen, punch it down and turn it out onto a lightly floured surface. Roll the dough into a rectangle about 12x16 inches.
+Place the chilled butter layer in the center of the dough rectangle. Fold the dough over the butter from all four sides to completely encase the butter.
+Roll the dough out into a rectangle about 8x24 inches. Fold the dough into thirds, like a letter, and wrap it in plastic wrap. Refrigerate for 30 minutes.
+Repeat the rolling and folding process two more times, chilling the dough for 30 minutes between each turn..
+After the final turn, refrigerate the dough for at least 1 hour or overnight.
+Preheat your oven to 400°F (200°C). Line a baking sheet with parchment paper.
+Roll the chilled dough into a rectangle about 12x18 inches. Cut the dough into triangles with a base of about 4 inches.
+Starting from the base of each triangle, roll the dough up towards the tip to form the croissants. Place the croissants on the prepared baking sheet, with the tip of the triangle tucked underneath.
+In a small bowl, whisk together the egg and water to make the egg wash. Brush the croissants with the egg wash.
+Let the croissants rise in a warm place for about 30-45 minutes until puffy.
+Bake the croissants for 15-20 minutes, or until golden brown and fully cooked.
+Allow the croissants to cool slightly on the baking sheet before transferring to a wire rack to cool completely.
 
-    For brushing:
-        1 egg (beaten, for egg wash)
+Source: https://www.facebook.com/groups/394225412476361/posts/1078574290708133/

@@ -1,5 +1,6 @@
 Let's begin!
-This line is for test jupyter lab ide git function
+This is a recipe for making Croissants
+
 Ingredients:
 
     For the dough:

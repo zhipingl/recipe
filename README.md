@@ -1,2 +1,9 @@
-for instance, you can first give the name of your recipe as a title and then provide 2 sentences summary of what your recipe is about. Also, you can provide your name or to include a URL to the source of the recipe (if applicable) line 2 changed remotely
+
+Croissant Recipe
+
+This recipe is for making old fashioned croissants from scratch. 
+The ingredients are simple and easy to find, but the instruction is the key to successfully making it. line 2 changed remotely
+
+Source: https://www.facebook.com/groups/394225412476361/posts/1078574290708133/
+
 last line was changed locally
