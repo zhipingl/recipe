@@ -2,7 +2,8 @@
 
 # Croissant Recipe
 
-1. This recipe is for making old fashioned croissants from scratch. 
+
+1. This recipe is for making **old fashioned** croissants from scratch. 
 2. The ingredients are simple and easy to find, but the instruction is the key to successfully making it. line 2 changed remotely
 
 ### Source: 
@@ -11,4 +12,5 @@
 last line was changed locally
 
 ### This is a REMOTE change :O
+
 ![This is a picture of croissant recipe](./recipe.jpg)
